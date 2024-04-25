@@ -1,0 +1,22 @@
+@media(max-width:650px) {
+    .conteudo {
+        flex-wrap: wrap;
+        margin-bottom: 200px;
+    }
+
+    .descricao {
+        border-start-end-radius: 0px;
+        border-end-start-radius: 8px;
+        padding: 10px;
+        height: 450px;
+    }
+
+    .produto {
+        border-end-start-radius: 0;
+        border-start-end-radius: 8px;
+        width: 300px;
+        height: 200px;
+    }
+
+
+}
